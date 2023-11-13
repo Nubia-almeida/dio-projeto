@@ -1,0 +1,8 @@
+Lista de estudos da Dio
+
+HTML
+CSS
+Javascript
+Git
+GitHub
+Produção de Jogos
